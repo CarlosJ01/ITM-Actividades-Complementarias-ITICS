@@ -38,8 +38,13 @@ Estas modificaciones se crearon por que el sistema estara aparte del SGE y por c
 
 # Servidor Demo
 
+https://itm-actcom-itics.herokuapp.com/login<br>
 El servidor demo para su implementacion en el departamento de ITICS es Free por lo que tiene ciertas limitaciones:
 
 -   Duerme después de 30 minutos de inactividad, de lo contrario, siempre en función de las horas de dinamómetro libres mensuales restantes (550-1000 horas de dinamómetro al mes).
 -   0 of 20 conecciones a la BD
 -   10,000 rows en la BD
+
+# Deploy
+
+https://www.youtube.com/watch?v=GE2Kmy8WL3g
